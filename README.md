@@ -8,7 +8,7 @@ regional spend, and the link between shipping time and customer satisfaction.
 
 ## Dashboard Preview
 
-![Excel Dashboard]([dashboard_screenshots/excel_dashboard.png](https://github.com/rohiitttt04/Olist-ecommerce-sales-analysis/blob/main/excel_dashboard.png))
+excel_dashboard.png
 
 ## Headline KPIs
 
