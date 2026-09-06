@@ -8,7 +8,7 @@ regional spend, and the link between shipping time and customer satisfaction.
 
 ## Dashboard Preview
 
-![Excel Dashboard](excel_dashboard.png)
+![Excel Dashboard]()
 
 ## Headline KPIs
 
